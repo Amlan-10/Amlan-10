@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amlan-10&label=Profile%20views&color=0e75b6&style=flat" alt="amlan-10" /> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **REACTJS**
 
 - 📫 How to reach me **tribediamlan@gmail.com**
 
